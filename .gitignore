@@ -1,0 +1,10 @@
+target
+bin
+WebContent
+lib
+.DS_Store
+.classpath
+.springBeans
+.project
+.settings
+.idea
