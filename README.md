@@ -1,2 +1,2 @@
 # habeshamart
-Spring and hibernate based Java application ecommerce application 
+Spring and hibernate based Java enterprise ecommerce application 
